@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Sarvesh
-- 👀 I’m interested in: Embedded Programming
-- 🌱 I’m currently learning: Embedded Programming + Linux 
-- 📫 How to reach me: mail me @ sarveshsant089@gmail.com
-- ⚡ Check out my [Portfolio](https://sites.google.com/view/sarveshsant/about-me) to know more about my projects!!
+# 👋 Hi, I’m Jitterbytes (Sarvesh)  
+**Embedded Systems & IoT Enthusiast**  
 
-<!---
-srx089/srx089 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love tinkering with boards and writing firmware for them.  
+This is my **dumpyard of projects** — or will be.  
+
+You’re probably here for the code. If you find what ya needed, cheers 🍻. If not, keep exploring 🚀.  
+
+Most of this is just my *“useless tinkering”* (things I built for fun),  
+but maybe it’ll help ya or spark an idea or teach ya something.  
+
+I don’t know how long I’ll keep uploading (I’m ambitiously lazy 😅),  
+but I hope to stick with it long enough to see the change in myself.  
+
+So… **Welcome!** 🚀  
+
+---
+
+## 📫 Connect with Me
+- GitHub: [@jitterbytes](https://github.com/jitterbytes)  
+- (Optional: LinkedIn / Email / Portfolio link here)
+
+
