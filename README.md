@@ -5,8 +5,7 @@ This is my **𝚍𝚞𝚖𝚙𝚢𝚊𝚛𝚍 𝚘𝚏 𝚙𝚛𝚘𝚓𝚎𝚌�
 
 You're probably here for the code. If you find what ya needed, cheers 🍻.. If not, keep exploring 🚀.
 
-Most of this is just my useless tinkering (things I built for fun),
-but maybe it'll help ya or spark na idea or teach ya something.
+Most of this is just my _useless tinkering_, but maybe it'll help ya or spark na idea or teach ya something.
 
 I don’t know how long I’ll keep uploading (I’m ambitiously lazy 😅),  
 but I hope to stick with it long enough to see the change in myself.  
