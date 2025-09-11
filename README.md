@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Jitterbytes (Sarvesh)  
+![Arduino](https://img.shields.io/badge/Arduino-Nano-blue?logo=arduino)
 
 ### Embedded Systems & IoT Enthusiast  
 
@@ -16,8 +17,6 @@ I don’t know how long I’ll keep uploading (**I’m ambitiously lazy 😅**),
 but I hope to stick with it long enough to see the change in myself.  
 
 So… **Welcome!** 🚀  
-
----
 
 ## 📫 Connect with Me  
 - GitHub: [@jitterbytes](https://github.com/jitterbytes)  
