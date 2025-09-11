@@ -1,17 +1,13 @@
 # 👋 Hi, I’m Jitterbytes (Sarvesh)  
 
-### ⚡ Embedded Systems & IoT Enthusiast  
+### Embedded Systems & IoT Enthusiast  
 
 I love tinkering with boards and writing firmware for them.  
 This is my **dumpyard of projects** — or will be.  
 
----
-
 👉 You’re probably here for the code.  
 If you find what ya needed, **cheers 🍻**.  
 If not, keep exploring **🚀**.  
-
----
 
 Most of this is just my *“useless tinkering”* (things I built for fun),  
 but maybe it’ll help ya, spark an idea, or even teach ya something.  
