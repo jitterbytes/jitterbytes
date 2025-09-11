@@ -1,4 +1,4 @@
-### Hi, I’m 𝙹𝚒𝚝𝚝𝚎𝚛𝚋𝚢𝚝𝚎𝚜
+### **𝙷𝚒, 𝙸'𝚖 𝙹𝚒𝚝𝚝𝚎𝚛𝚋𝚢𝚝𝚎𝚜**
 
 I love tinkering with boards and writing firmware for them.  
 This is my **dumpyard of projects** — or will be.  
