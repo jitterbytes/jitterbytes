@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Jitterbytes (Sarvesh)  
-![Arduino](https://img.shields.io/badge/Arduino-Nano-blue?logo=arduino)
-
-### Embedded Systems & IoT Enthusiast  
+ Embedded Systems & IoT Enthusiast  
 
 I love tinkering with boards and writing firmware for them.  
 This is my **dumpyard of projects** — or will be.  
