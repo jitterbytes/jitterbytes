@@ -14,6 +14,5 @@ So… **𝚆𝚎𝚕𝚌𝚘𝚖𝚎!!** 🚀
 
 ## 📫 Connect with Me
 - GitHub: [@jitterbytes](https://github.com/jitterbytes)  
-- LinkedIn: [@sarveshsant](www.linkedin.com/in/sarveshsant089)
-- Email: [@mail](sarveshsant089@gmail.com)
+- LinkedIn: [@sarveshsant](https://www.linkedin.com/in/sarveshsant089/)
 - Portfolio: [@portfolio](https://sites.google.com/view/sarveshsant/about-me)
