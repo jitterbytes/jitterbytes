@@ -16,3 +16,4 @@ So… **𝚆𝚎𝚕𝚌𝚘𝚖𝚎!!** 🚀
 - GitHub: [@jitterbytes](https://github.com/jitterbytes)  
 - LinkedIn: [@sarveshsant](https://www.linkedin.com/in/sarveshsant089/)
 - Portfolio: [@portfolio](https://sites.google.com/view/sarveshsant/about-me)
+- Reddit: [@outrageousbicycle989](https://www.reddit.com/user/OutrageousBicycle989/)
