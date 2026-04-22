@@ -2,7 +2,7 @@
 
 I tinker with boards and write program on them, try out to make something for myself.
 
-<p align="center">
+<p align="right-align">
   <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" width="400"/>
 </p>
 
