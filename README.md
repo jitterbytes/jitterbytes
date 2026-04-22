@@ -2,7 +2,9 @@
 
 I tinker with boards and write program on them, try out to make something for myself.
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" width="400"/>
+</p>
 
 ## 📫 Connect with Me
 - GitHub: [@jitterbytes](https://github.com/jitterbytes)  
