@@ -2,6 +2,8 @@
 
 I tinker with boards and write program on them, try out to make something for myself.
 
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
 ## 📫 Connect with Me
 - GitHub: [@jitterbytes](https://github.com/jitterbytes)  
 - LinkedIn: [@sarveshsant](https://www.linkedin.com/in/sarveshsant089/)
