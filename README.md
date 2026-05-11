@@ -4,27 +4,10 @@
 
 <br/>
 
-```
-// hello world
-```
+## **𝙷𝚒, 𝙸'𝚖 𝙹𝚒𝚝𝚝𝚎𝚛𝚋𝚢𝚝𝚎𝚜** Starting something new...learning bare metal programming. 
 
-## Hi, I'm Jitterbytes.
-
-`Starting something new — learning` **bare metal programming**
-
-<br/>
-
----
-
-###### CONNECT
-
-[![GitHub](https://img.shields.io/badge/GitHub-jitterbytes-161b22?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/jitterbytes)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarveshsant-0a1628?style=flat-square&logo=linkedin&logoColor=7bafd4&labelColor=0a1628)](https://www.linkedin.com/in/sarveshsant089/)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-0d1a0d?style=flat-square&logo=googlechrome&logoColor=6fbf73&labelColor=0d1a0d)](https://sites.google.com/view/sarveshsant/about-me)&nbsp;
-[![Reddit](https://img.shields.io/badge/Reddit-outrageousbicycle989-1e0d00?style=flat-square&logo=reddit&logoColor=e06030&labelColor=1e0d00)](https://www.reddit.com/user/OutrageousBicycle989/)
-
-<br/>
-
-<sub>`status: booting up` &nbsp;·&nbsp; `location: india` &nbsp;·&nbsp; `focus: embedded systems`</sub>
-
-</div>
+## 📫 Connect with Me 
+- GitHub: [@jitterbytes](https://github.com/jitterbytes)
+- LinkedIn: [@sarveshsant](https://www.linkedin.com/in/sarveshsant089/)
+- Portfolio: [@portfolio](https://sites.google.com/view/sarveshsant/about-me)
+- Reddit: [@outrageousbicycle989](https://www.reddit.com/user/OutrageousBicycle989/)
