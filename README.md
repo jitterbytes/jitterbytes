@@ -1,37 +1,28 @@
+![banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1nbzJpamNndGsxdmJuZnMyejQwd3JndHp3ZWU0dTh2dXhnZDR2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+
+<br>
+
 ```
-      _ _ _   _           _           _
-     (_) | | | |         | |         | |
-      _| | |_| |__  _   _| |_ ___ ___| |
-     | | | __| '_ \| | | | __/ _ \/ __| |
-     | | | |_| |_) | |_| | ||  __/\__ \_|
-     | |_|\__|_.__/ \__, |\__\___||___(_)
-    _/ |             __/ |
-   |__/             |___/
+// hello world
 ```
 
-## `$ whoami`
+## Hi, I'm Jitterbytes.
 
-> Starting something new... learning **bare metal programming** 🔩
+`Starting something new — learning` **bare metal programming**
+
+<br>
 
 ---
 
-## `$ cat connect.conf`
+### Connect
 
-<p align="left">
-  <a href="https://github.com/jitterbytes">
-    <img src="https://img.shields.io/badge/GitHub-jitterbytes-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" />
-  </a>
-  <a href="https://www.linkedin.com/in/sarveshsant089/">
-    <img src="https://img.shields.io/badge/LinkedIn-sarveshsant-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>
-  <a href="https://sites.google.com/view/sarveshsant/about-me">
-    <img src="https://img.shields.io/badge/Portfolio-visit-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=34A853" />
-  </a>
-  <a href="https://www.reddit.com/user/OutrageousBicycle989/">
-    <img src="https://img.shields.io/badge/Reddit-outrageousbicycle989-0d1117?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-jitterbytes-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jitterbytes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarveshsant-0a1628?style=flat-square&logo=linkedin&logoColor=7bafd4)](https://www.linkedin.com/in/sarveshsant089/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-0d1a0d?style=flat-square&logo=googlechrome&logoColor=6fbf73)](https://sites.google.com/view/sarveshsant/about-me)
+[![Reddit](https://img.shields.io/badge/Reddit-outrageousbicycle989-1e0d00?style=flat-square&logo=reddit&logoColor=e06030)](https://www.reddit.com/user/OutrageousBicycle989/)
+
+<br>
 
 ---
 
-> `// initialized. awaiting input.`
+<sub>`status: booting up` &nbsp;·&nbsp; `location: india` &nbsp;·&nbsp; `focus: embedded systems`</sub>
