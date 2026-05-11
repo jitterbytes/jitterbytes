@@ -1,9 +1,37 @@
-## **𝙷𝚒, 𝙸'𝚖 𝙹𝚒𝚝𝚝𝚎𝚛𝚋𝚢𝚝𝚎𝚜**
+```
+      _ _ _   _           _           _
+     (_) | | | |         | |         | |
+      _| | |_| |__  _   _| |_ ___ ___| |
+     | | | __| '_ \| | | | __/ _ \/ __| |
+     | | | |_| |_) | |_| | ||  __/\__ \_|
+     | |_|\__|_.__/ \__, |\__\___||___(_)
+    _/ |             __/ |
+   |__/             |___/
+```
 
-I tinker with boards and write program on them, try out to make something for myself.
+## `$ whoami`
 
-## 📫 Connect with Me
-- GitHub: [@jitterbytes](https://github.com/jitterbytes)  
-- LinkedIn: [@sarveshsant](https://www.linkedin.com/in/sarveshsant089/)
-- Portfolio: [@portfolio](https://sites.google.com/view/sarveshsant/about-me)
-- Reddit: [@outrageousbicycle989](https://www.reddit.com/user/OutrageousBicycle989/)
+> Starting something new... learning **bare metal programming** 🔩
+
+---
+
+## `$ cat connect.conf`
+
+<p align="left">
+  <a href="https://github.com/jitterbytes">
+    <img src="https://img.shields.io/badge/GitHub-jitterbytes-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarveshsant089/">
+    <img src="https://img.shields.io/badge/LinkedIn-sarveshsant-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+  <a href="https://sites.google.com/view/sarveshsant/about-me">
+    <img src="https://img.shields.io/badge/Portfolio-visit-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=34A853" />
+  </a>
+  <a href="https://www.reddit.com/user/OutrageousBicycle989/">
+    <img src="https://img.shields.io/badge/Reddit-outrageousbicycle989-0d1117?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500" />
+  </a>
+</p>
+
+---
+
+> `// initialized. awaiting input.`
