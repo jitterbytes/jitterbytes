@@ -1,6 +1,8 @@
-![banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ4a3h3YXJvZGhtZ3prNHZuY3M0aTFkeXVoamhhc3B0a3QybjZ5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ELQP3PEyYsuvAhqv44/giphy.gif)
+<div align="center">
 
-<br>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ4a3h3YXJvZGhtZ3prNHZuY3M0aTFkeXVoamhhc3B0a3QybjZ5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ELQP3PEyYsuvAhqv44/giphy.gif" width="100%" />
+
+<br/>
 
 ```
 // hello world
@@ -10,19 +12,19 @@
 
 `Starting something new — learning` **bare metal programming**
 
-<br>
+<br/>
 
 ---
 
-### Connect
+###### CONNECT
 
-[![GitHub](https://img.shields.io/badge/GitHub-jitterbytes-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jitterbytes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarveshsant-0a1628?style=flat-square&logo=linkedin&logoColor=7bafd4)](https://www.linkedin.com/in/sarveshsant089/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-0d1a0d?style=flat-square&logo=googlechrome&logoColor=6fbf73)](https://sites.google.com/view/sarveshsant/about-me)
-[![Reddit](https://img.shields.io/badge/Reddit-outrageousbicycle989-1e0d00?style=flat-square&logo=reddit&logoColor=e06030)](https://www.reddit.com/user/OutrageousBicycle989/)
+[![GitHub](https://img.shields.io/badge/GitHub-jitterbytes-161b22?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/jitterbytes)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarveshsant-0a1628?style=flat-square&logo=linkedin&logoColor=7bafd4&labelColor=0a1628)](https://www.linkedin.com/in/sarveshsant089/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-0d1a0d?style=flat-square&logo=googlechrome&logoColor=6fbf73&labelColor=0d1a0d)](https://sites.google.com/view/sarveshsant/about-me)&nbsp;
+[![Reddit](https://img.shields.io/badge/Reddit-outrageousbicycle989-1e0d00?style=flat-square&logo=reddit&logoColor=e06030&labelColor=1e0d00)](https://www.reddit.com/user/OutrageousBicycle989/)
 
-<br>
-
----
+<br/>
 
 <sub>`status: booting up` &nbsp;·&nbsp; `location: india` &nbsp;·&nbsp; `focus: embedded systems`</sub>
+
+</div>
